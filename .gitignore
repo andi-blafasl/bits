@@ -12,7 +12,7 @@ $RECYCLE.BIN/
 # Windows Installer files
 *.cab
 *.msi
-.msm
+*.msm
 *.msp
 
 # Windows shortcuts
