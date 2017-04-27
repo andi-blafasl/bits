@@ -1,13 +1,13 @@
 BITS Behörden-IT-Sicherheitstraining
 
-Stand: 07.02.2017
-Version 4.01
+Stand: 28.04.2017
+Version 4.02
 Autoren: AK IT StGB NRW, Dr. Lutz Gollan (Behörde für Inneres und Sport, Hamburg), Werner Eising (technische Unterstützung, Stadt Coesfeld), Jörg Lekschas (Bots-Seite, Robert-Koch-Institut, Berlin).
 Ansprechpartner Dr. Lutz Gollan
 E-Mail: Lutz.Gollan@bis.hamburg.de
 
 1.Überblick
-Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 4.01 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (http://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Behörde für Inneres und Sport, Hamburg, herausgegeben.
+Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 4.02 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (http://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Behörde für Inneres und Sport, Hamburg, herausgegeben.
 
 2.Ziel
 Durch das Training sollen die Mitarbeiterinnen und Mitarbeiter von Verwaltungen, die regelmäßig an EDV-Arbeitsplätzen und insbesondere mit dem Internet beschäftigt sind, durch gezielte Information und Selbstlerneinheiten für die Sicherheitsaspekte der Computer- und Internetnutzung sensibilisiert werden.
@@ -40,7 +40,7 @@ ODER
 
 2.	Nutzung des Tools tools/suchindex.bat zum automatisierten Erzeugen der Syntax für die Volltextrecherche
 
-    2.1  Zunächst muss dazu der unter der GPL stehende Stream Line Editor "sed" (https://www.gnu.org/software/sed/ - Download der kompatiblen Version 4.01.2.1 für Windows unter https://sourceforge.net/projects/gnuwin32/files/sed/4.2.1/sed-4.2.1-setup.exe/download) heruntergeladen und in das Verzeichnis "\bits\tools\bin" kopiert werden (einschl. der zugehörigen Dlls).
+    2.1  Zunächst muss dazu der unter der GPL stehende Stream Line Editor "sed" (https://www.gnu.org/software/sed/ - Download der kompatiblen Version 4.02.2.1 für Windows unter https://sourceforge.net/projects/gnuwin32/files/sed/4.2.1/sed-4.2.1-setup.exe/download) heruntergeladen und in das Verzeichnis "\bits\tools\bin" kopiert werden (einschl. der zugehörigen Dlls).
  
     2.2  Start der im Ordner tools liegende suchindex.bat zum Erzeugen der Syntax für die Volltextrecherche;
 
